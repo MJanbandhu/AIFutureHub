@@ -9,7 +9,7 @@ Features
     Customizable Parameters: Tailor predictions based on your preferences.
 
 Clone the repository:
-git clone https://github.com/your-username/StockProphet.git
+git clone https://github.com/your-username/AIFutureHub.git
 cd AIFutureHub
 
 
